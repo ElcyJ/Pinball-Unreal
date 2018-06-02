@@ -1,0 +1,1566 @@
+﻿Log file open, 06/02/18 11:35:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Pinball
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-916845384) SRandInit(-916845384).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.282905
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.435s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-IUHC0TU (172.16.66.190:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.02-14.35.36:459][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.02-14.35.36:459][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.02-14.35.36:474][  0]LogInit: Computer: DESKTOP-IUHC0TU
+[2018.06.02-14.35.36:474][  0]LogInit: User: elcy
+[2018.06.02-14.35.36:474][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.02-14.35.36:474][  0]LogInit: High frequency timer resolution =3.312664 MHz
+[2018.06.02-14.35.36:474][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.06.02-14.35.36:474][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.02-14.35.36:474][  0]LogMemory: Process Physical Memory: 274.01 MB used, 274.01 MB peak
+[2018.06.02-14.35.36:474][  0]LogMemory: Process Virtual Memory: 264.87 MB used, 264.87 MB peak
+[2018.06.02-14.35.36:474][  0]LogMemory: Physical Memory: 5227.05 MB used,  2876.48 MB free, 8103.53 MB total
+[2018.06.02-14.35.36:474][  0]LogMemory: Virtual Memory: 4794.16 MB used,  2876.48 MB free, 134217728.00 MB total
+[2018.06.02-14.35.36:487][  0]LogInit: Using OS detected language (pt-BR).
+[2018.06.02-14.35.36:487][  0]LogInit: Using OS detected locale (pt-BR).
+[2018.06.02-14.35.36:842][  0]LogStreaming: Display: Took  0.355s to EndInitTextLocalization.
+[2018.06.02-14.35.36:842][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.02-14.35.36:869][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.02-14.35.36:869][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.02-14.35.37:054][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.02-14.35.37:156][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.06.02-14.35.37:156][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2018.06.02-14.35.37:158][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.02-14.35.37:158][  0]LogD3D11RHI:       0/0/4051 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.02-14.35.37:158][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.02-14.35.37:164][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.02-14.35.37:164][  0]LogD3D11RHI:     GPU DeviceId: 0x412 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.02-14.35.37:164][  0]LogWindows: EnumDisplayDevices:
+[2018.06.02-14.35.37:164][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.06.02-14.35.37:164][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2018.06.02-14.35.37:164][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.06.02-14.35.37:164][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.02-14.35.37:164][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4600
+[2018.06.02-14.35.37:164][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.02-14.35.37:164][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.02-14.35.37:164][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2018.06.02-14.35.37:170][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.02-14.35.37:176][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.06.02-14.35.37:177][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Intermediate/Shaders/WorkingDirectory/5980/).
+[2018.06.02-14.35.37:177][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/elcy_/AppData/Local/Temp/UnrealShaderWorkingDir/3EC07234499E230F2EEB36B6DFF821A3/'.
+[2018.06.02-14.35.39:651][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.02-14.35.39:665][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.02-14.35.39:679][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.02-14.35.39:693][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.02-14.35.39:707][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.02-14.35.39:721][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.02-14.35.39:734][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.02-14.35.39:748][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.02-14.35.39:756][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.02-14.35.39:767][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.02-14.35.39:778][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.02-14.35.39:790][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.02-14.35.39:801][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.02-14.35.39:813][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.02-14.35.39:825][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.02-14.35.39:847][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.02-14.35.39:847][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.02-14.35.39:859][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.02-14.35.39:860][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.02-14.35.39:898][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.02-14.35.39:909][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.02-14.35.39:923][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.02-14.35.39:934][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.02-14.35.39:947][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.02-14.35.39:960][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.02-14.35.39:960][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.02-14.35.40:104][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.02-14.35.40:104][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.02-14.35.40:105][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.02-14.35.40:932][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.02-14.35.41:412][  0]LogDerivedDataCache: Loaded boot cache 0.48s 74MB C:/Users/elcy_/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.02-14.35.41:412][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/elcy_/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.02-14.35.41:412][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.02-14.35.41:412][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.02-14.35.41:412][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.02-14.35.41:412][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.02-14.35.41:429][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.02-14.35.41:441][  0]LogDerivedDataCache: Using Local data cache path C:/Users/elcy_/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.02-14.35.41:441][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.02-14.35.41:441][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.02-14.35.41:454][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.02-14.35.41:455][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.02-14.35.41:456][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.02-14.35.41:456][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.02-14.35.41:719][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.06.02-14.35.42:145][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.02-14.35.42:494][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.02-14.35.42:497][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.02-14.35.42:497][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.02-14.35.42:497][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.02-14.35.42:497][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.02-14.35.42:497][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.02-14.35.42:620][  0]LogNetVersion: Pinball , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3476590221)
+[2018.06.02-14.35.44:004][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.080642 seconds
+[2018.06.02-14.35.44:011][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.02-14.35.44:011][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.06.02-14.35.44:011][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.02-14.36.13:798][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.02-14.36.13:848][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.02-14.36.14:299][  0]SourceControl: Controle de origem desativado
+[2018.06.02-14.36.14:299][  0]SourceControl: Controle de origem desativado
+[2018.06.02-14.36.14:317][  0]SourceControl: Controle de origem desativado
+[2018.06.02-14.36.14:337][  0]SourceControl: Controle de origem desativado
+[2018.06.02-14.36.15:259][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.02-14.36.15:425][  0]LogOcInput: OculusInput pre-init called
+[2018.06.02-14.36.15:619][  0]LogEngine: Initializing Engine...
+[2018.06.02-14.36.15:621][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.02-14.36.15:623][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.02-14.36.15:623][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.02-14.36.15:850][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.02-14.36.15:867][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.02-14.36.15:886][  0]LogInit: FAudioDevice initialized.
+[2018.06.02-14.36.16:004][  0]LogDerivedDataCache: Saved boot cache 0.12s 74MB C:/Users/elcy_/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.02-14.36.16:021][  0]LogInit: Texture streaming: Enabled
+[2018.06.02-14.36.16:040][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.02-14.36.16:057][  0]LogInit: Transaction tracking system initialized
+[2018.06.02-14.36.16:081][  0]BlueprintLog: New page: Carregar Editor
+[2018.06.02-14.36.16:246][  0]LocalizationService: Localization service is disabled
+[2018.06.02-14.36.16:430][  0]LogConsoleResponse: Display: 
+[2018.06.02-14.36.16:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elcy_/Documents/Unreal Projects/Pinball/Content/' took 0.01s
+[2018.06.02-14.36.16:595][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.02-14.36.16:595][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.02-14.36.16:595][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.02-14.36.16:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.02-14.36.16:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.02-14.36.17:260][  0]SourceControl: Controle de origem desativado
+[2018.06.02-14.36.17:260][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.02-14.36.17:260][  0]LightingResults: New page: Compilação de Iluminação
+[2018.06.02-14.36.17:263][  0]MapCheck: New page: Verificação de Mapa
+[2018.06.02-14.36.17:263][  0]LightingResults: New page: Compilação de Iluminação
+[2018.06.02-14.36.17:441][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.06.02-14.36.17:447][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.02-14.36.17:460][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.02-14.36.17:509][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49,036ms to complete.
+[2018.06.02-14.36.17:509][  0]LogFileHelpers: Loading map 'Template_Default' took 0.249
+[2018.06.02-14.36.17:776][  0]LogCollectionManager: Loaded 0 collections in 0.001762 seconds
+[2018.06.02-14.36.17:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Collections/' took 0.01s
+[2018.06.02-14.36.17:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elcy_/Documents/Unreal Projects/Pinball/Content/Developers/elcy/Collections/' took 0.01s
+[2018.06.02-14.36.17:845][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elcy_/Documents/Unreal Projects/Pinball/Content/Collections/' took 0.01s
+[2018.06.02-14.36.17:845][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.02-14.36.17:854][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2452 classes and 558 folders.
+[2018.06.02-14.36.17:870][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.02-14.36.20:209][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.06.02-14.36.20:268][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.06.02-14.36.20:636][  0]LogSlate: Took 0.015682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.02-14.36.20:653][  0]LogSlate: Took 0.014964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.02-14.36.20:690][  0]LogSlate: Took 0.017358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.02-14.36.20:999][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.06.02-14.36.21:748][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.02-14.36.21:793][  0]LogSlate: Window 'Tutoriais' being destroyed
+[2018.06.02-14.36.21:825][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.02-14.36.21:825][  0]LogLoad: (Engine Initialization) Total time: 48.80 seconds
+[2018.06.02-14.36.21:825][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.02-14.36.22:204][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.02-14.36.22:509][  1]LogAssetRegistry: Asset discovery search completed in 40.8121 seconds
+[2018.06.02-14.36.22:511][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.02-14.36.22:511][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2018.06.02-14.40.16:562][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.02-14.40.36:290][564]LogSlate: Took 0.019935 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.02-14.57.51:950][890]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.02-14.57.51:961][890]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\elcy_\Downloads\PinballAssets\PinballAssets\BallSphere.FBX)
+[2018.06.02-14.57.52:058][890]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.02-14.57.52:058][890]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.06.02-14.57.52:058][890]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.06.02-14.57.52:058][890]LogFbx: ItemName: Model, ItemCount : 1
+[2018.06.02-14.57.52:058][890]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.06.02-14.57.52:058][890]LogFbx: ItemName: Material, ItemCount : 1
+[2018.06.02-14.57.52:105][890]LogFbx: Loading FBX Scene from C:\Users\elcy_\Downloads\PinballAssets\PinballAssets\BallSphere.FBX
+[2018.06.02-14.57.52:171][890]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.02-14.58.55:845][890]LogSlate: Window 'Opções de Importação FBX' being destroyed
+[2018.06.02-14.58.55:911][890]LogFbx: Loading FBX Scene from C:\Users\elcy_\Downloads\PinballAssets\PinballAssets\BallSphere.FBX
+[2018.06.02-14.58.55:917][890]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.02-14.58.55:986][890]LogStaticMesh: Criando malha estática BallSphere...
+[2018.06.02-14.58.56:011][890]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/BallSphere.BallSphere
+[2018.06.02-14.58.56:119][890]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.06.02-14.58.59:400][932]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.011
+[2018.06.02-14.58.59:403][932]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/BallSphere] ([1] browsable assets)...
+[2018.06.02-14.58.59:454][932]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/BallSphere.BallSphere]
+[2018.06.02-14.58.59:454][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/BallSphere]
+[2018.06.02-14.58.59:504][932]LogSavePackage: Save=46.83ms
+[2018.06.02-14.58.59:504][932]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/BallSphere_Auto1294467D14C1E09287475988B080FB77B.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/BallSphere_Auto1.uasset'
+[2018.06.02-14.58.59:505][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Assets/BallSphere_Auto1.uasset
+[2018.06.02-14.58.59:505][932]LogFileHelpers: Auto-saving content packages took 0.104
+[2018.06.02-14.59.01:092][952]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2018.06.02-14.59.01:214][952]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2018.06.02-14.59.18:107][406]LogSlate: Took 0.066198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.06.02-14.59.18:157][407]LogSlate: Took 0.020947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2018.06.02-14.59.19:782][499]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.064189 seconds
+[2018.06.02-14.59.20:619][500]LogSlate: Took 0.017606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.02-14.59.20:635][500]LogSlate: Took 0.012437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.02-14.59.20:656][500]LogSlate: Took 0.016346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.02-14.59.20:658][500]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.02-14.59.32:810][652]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.06.02-14.59.32:827][652]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.06.02-14.59.47:276][ 94]LogSlate: Took 0.000492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.02-14.59.47:337][ 94]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-14.59.48:047][ 94]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-14.59.48:073][ 94]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-14.59.48:073][ 94]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-14.59.48:073][ 94]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-14.59.48:073][ 94]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-14.59.48:115][ 94]LogSlate: Took 0.024064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.02-14.59.52:284][147]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-14.59.52:320][148]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-14.59.52:344][148]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-14.59.52:356][148]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-14.59.52:543][149]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-14.59.52:585][149]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-14.59.52:614][149]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-14.59.53:012][161]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-14.59.53:275][175]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-14.59.53:275][175]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-14.59.53:316][177]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-14.59.53:568][187]LogSlate: Window 'M_SimpleMetal*' being destroyed
+[2018.06.02-14.59.53:625][189]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-14.59.54:030][200]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.02-14.59.54:030][200]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.02-14.59.54:030][200]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-14.59.54:030][200]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.00.06:003][517]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.00.06:075][518]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.00.06:075][518]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.00.06:075][518]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.00.06:075][518]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.00.06:380][526]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.00.06:393][526]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.00.06:393][526]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.00.06:418][527]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.00.06:670][533]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.00.06:705][534]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.00.06:713][534]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.00.07:098][542]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.00.07:122][543]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.00.07:361][548]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.00.07:412][549]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.00.07:488][551]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.00.07:550][552]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.00.07:850][559]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.00.07:909][561]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.00.07:916][561]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.00.08:005][563]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.00.08:234][568]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.00.08:281][569]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.00.08:295][569]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.00.08:317][570]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.00.08:510][574]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.00.08:566][575]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.00.08:596][576]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.00.08:925][583]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.00.08:959][584]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.00.09:211][591]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.00.09:328][594]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.00.09:343][594]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.00.09:909][607]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.02-15.00.09:910][607]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.02-15.00.09:910][607]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.00.09:910][607]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.00.14:946][753]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.00.14:958][753]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.00.14:978][754]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.00.14:978][754]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.00.14:978][754]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.00.14:978][754]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.00.15:535][763]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.00.15:535][763]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.00.15:555][764]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.00.15:555][764]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.00.15:819][771]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.00.15:876][772]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.00.15:876][772]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.00.16:196][779]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.00.16:230][780]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.00.16:485][786]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.00.16:534][787]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.00.16:617][789]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.00.17:188][802]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.02-15.00.17:188][802]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.02-15.00.17:188][802]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.00.17:188][802]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.00.17:306][804]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.00.17:351][804]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.00.17:351][804]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.00.17:351][804]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.00.17:351][804]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.00.17:698][824]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.00.17:727][826]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.00.17:743][827]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.00.17:743][827]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.00.18:053][844]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.00.18:086][846]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.00.18:134][849]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.00.18:518][869]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.00.18:535][870]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.00.18:782][881]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.00.18:903][890]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.00.18:988][893]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.00.19:386][915]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.00.19:411][915]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.00.19:411][915]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.00.19:411][915]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.00.19:554][921]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.00.19:838][927]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.00.19:838][927]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.00.19:838][927]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.00.19:860][928]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.00.20:106][933]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.00.20:143][934]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.00.20:168][935]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.00.20:501][942]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.00.20:521][942]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.00.20:797][952]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.00.20:943][960]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.00.20:955][961]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.00.22:175][ 42]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.06.02-15.00.22:175][ 42]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.06.02-15.00.22:175][ 42]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.00.22:175][ 42]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.00.23:546][ 83]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_1, compiling. 
+[2018.06.02-15.00.23:563][ 85]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.00.23:564][ 85]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.00.29:820][268]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.00.29:833][268]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.00.29:854][269]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.00.29:854][269]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.00.29:854][269]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.00.29:854][269]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.00.30:192][278]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.00.30:259][280]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.00.30:272][280]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.00.30:272][280]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.00.30:493][285]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.00.30:561][287]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.00.30:573][287]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.00.30:888][294]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.00.30:907][294]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.00.31:136][299]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.00.31:225][301]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.00.31:277][302]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.00.31:914][315]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.00.31:957][315]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.00.31:957][315]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.00.31:957][315]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.00.31:957][315]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.00.32:308][335]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.00.32:368][338]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.00.32:390][339]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.00.32:390][339]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.00.32:650][353]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.00.32:717][357]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.00.32:790][361]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.00.33:188][383]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.00.33:241][386]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.00.33:545][403]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.00.33:636][408]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.00.33:667][410]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.00.34:461][456]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.00.34:483][457]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.00.34:483][457]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.00.34:483][457]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.00.34:483][457]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.00.34:829][466]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.00.34:864][467]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.00.34:896][468]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.00.34:900][468]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.00.35:105][473]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.00.35:157][474]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.00.35:160][474]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.00.35:537][482]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.00.35:589][483]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.00.35:768][487]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.00.35:904][490]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.00.35:969][491]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.00.38:602][666]MaterialEditorStats: Base pass shader: 104 instructions
+[2018.06.02-15.00.38:602][666]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.06.02-15.00.38:602][666]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.00.38:602][666]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.00.44:709][913]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.00.44:722][913]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.00.44:722][913]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.00.44:722][913]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.00.44:722][913]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.00.44:722][913]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.00.44:824][914]LogSlate: Took 0.020832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.02-15.00.45:064][921]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.00.45:104][922]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.00.45:133][923]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.00.45:152][923]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.00.45:376][928]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.00.45:412][929]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.00.45:444][930]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.00.45:796][938]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.00.45:807][938]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.00.46:155][945]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.00.46:232][947]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.00.46:252][947]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.00.46:697][957]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.00.46:706][957]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.00.46:931][962]MaterialEditorStats: Base pass shader: 104 instructions
+[2018.06.02-15.00.46:931][962]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.06.02-15.00.46:931][962]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.00.46:931][962]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.00.55:466][351]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.00.55:488][351]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.00.55:488][351]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.00.55:488][351]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.00.55:488][351]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.00.55:491][351]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.00.55:860][361]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.00.55:895][362]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.00.55:906][362]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.00.55:906][362]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.00.56:158][368]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.00.56:176][368]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.00.56:197][369]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.00.56:569][377]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.00.56:588][377]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.00.56:860][384]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.00.56:953][386]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.00.56:973][386]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.00.57:320][398]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.00.57:335][398]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.00.57:602][404]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.06.02-15.00.57:603][404]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.02-15.00.57:603][404]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.00.57:603][404]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.01.02:615][527]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.02:632][527]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.02:632][527]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.02:632][527]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.02:632][527]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.02:635][527]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.02:666][527]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.03:020][535]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.03:089][537]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.03:096][537]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.03:096][537]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.03:466][545]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.03:507][546]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.03:542][547]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.03:544][547]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.03:835][554]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.03:853][554]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.03:876][555]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.03:885][555]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.04:164][562]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.01.04:311][565]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.01.04:586][571]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.01.04:665][573]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.01.04:742][573]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.04:779][573]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.04:919][579]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.04:977][582]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.05:203][593]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.05:481][607]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.05:506][608]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.05:539][610]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.05:760][620]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.05:911][628]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.05:970][631]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.06:007][633]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.06:111][639]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.06:293][649]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.06:369][653]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.01.06:737][673]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.01.06:815][677]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.01.07:004][688]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.01.07:210][698]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.07:260][701]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.08:683][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.08:698][793]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.08:698][793]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.08:714][793]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.08:721][793]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.08:721][793]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.08:731][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.08:765][793]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.09:090][802]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.09:134][803]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.09:161][804]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.09:163][804]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.09:538][812]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.09:577][813]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.09:609][814]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.09:609][814]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.09:891][820]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.09:891][820]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.09:927][821]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.09:935][821]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.10:209][827]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.01.10:313][829]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.01.10:615][836]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.01.10:667][836]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.01.10:695][836]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.10:730][836]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.10:979][847]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.11:044][850]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.11:203][857]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.11:379][865]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.11:473][869]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.11:560][873]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.11:727][880]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.11:915][889]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.11:935][890]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.11:949][890]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.12:101][897]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.12:294][906]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.12:315][907]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.01.12:773][930]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.01.12:793][931]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.01.12:919][938]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.01.13:147][949]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.13:191][951]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.14:533][ 27]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.14:549][ 27]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.14:549][ 27]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.14:563][ 27]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.14:570][ 27]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.14:570][ 27]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.14:574][ 27]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.14:596][ 27]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.14:631][ 27]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.14:663][ 27]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.14:884][ 33]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.15:002][ 36]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.15:004][ 36]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.15:018][ 36]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.15:360][ 44]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.15:374][ 44]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.15:398][ 45]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.15:404][ 45]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.15:659][ 51]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.15:693][ 51]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.15:708][ 51]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.15:731][ 51]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.15:731][ 51]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.15:764][ 51]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.15:955][ 60]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.16:208][ 73]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.16:582][ 92]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.16:656][ 96]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.16:696][ 98]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.16:697][ 98]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.17:043][115]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.17:060][116]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.17:099][118]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.17:114][119]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.17:411][135]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.17:430][136]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.17:453][137]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.01.17:855][158]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.01.17:933][162]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.01.18:241][178]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.01.18:329][182]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.18:346][183]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.20:569][330]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.20:585][330]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.20:585][330]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.20:601][330]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.20:610][330]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.20:610][330]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.20:617][330]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.20:638][330]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.20:673][330]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.20:703][330]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.20:938][337]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.21:031][339]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.21:042][339]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.21:042][339]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.21:403][347]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.21:439][348]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.21:480][349]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.21:480][349]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.21:735][355]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.21:743][355]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.21:773][356]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.21:775][356]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.22:001][361]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.01.22:187][365]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.01.22:455][371]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.01.22:466][371]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.01.22:822][379]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.22:857][380]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.23:117][384]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.23:131][384]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.23:131][384]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.23:148][384]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.23:224][387]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.23:484][400]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.23:560][403]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.23:686][409]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.23:738][411]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.24:031][424]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.24:112][428]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.24:113][428]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.24:140][429]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.24:257][434]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.24:298][434]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.24:317][434]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.24:341][434]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.24:347][434]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.24:385][434]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.24:385][434]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.24:418][434]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.24:731][442]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.24:756][443]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.24:802][444]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.24:834][445]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.25:137][451]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.25:213][453]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.25:225][453]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.25:251][454]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.25:494][459]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.25:523][460]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.25:531][460]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.25:545][460]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.25:780][466]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.01.25:933][469]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.01.26:455][478]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.01.26:509][480]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.01.26:865][487]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.26:890][488]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.27:433][501]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.06.02-15.01.27:433][501]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.02-15.01.27:433][501]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.01.27:434][501]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.01.30:453][581]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.30:467][581]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.30:467][581]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.30:482][581]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.30:489][581]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.30:489][581]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.30:752][596]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.30:783][596]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.30:851][598]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.30:882][598]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.31:087][605]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.31:120][605]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.31:150][605]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.31:166][605]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.31:185][605]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.31:194][605]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.31:232][607]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.31:447][616]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.31:469][616]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.31:486][616]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.31:504][616]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.31:526][616]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.31:567][616]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.31:593][616]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.31:600][616]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.31:600][616]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.31:647][618]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.31:807][623]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.31:990][627]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.32:030][628]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.32:111][630]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.32:198][632]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.32:380][636]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.32:386][636]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.32:398][636]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.32:448][637]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.32:669][642]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.32:678][642]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.01.33:004][649]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.01.33:044][650]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.01.33:107][651]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.01.33:387][657]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.33:407][657]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.33:960][670]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.06.02-15.01.33:960][670]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.02-15.01.33:960][670]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.01.33:960][670]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.01.37:622][772]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.37:639][772]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.37:639][772]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.37:654][772]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.37:665][772]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.37:665][772]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.37:735][774]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.37:770][774]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.37:793][774]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.37:829][774]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.38:003][781]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.38:076][785]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.38:076][785]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.38:106][786]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.38:268][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.38:303][793]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.38:323][793]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.38:352][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.38:386][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.38:413][793]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.38:415][793]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.38:440][794]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.38:462][795]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.38:462][795]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.38:781][802]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.38:812][803]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.38:844][804]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.38:894][805]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.39:143][810]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.39:177][811]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.39:211][812]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.39:218][812]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.39:417][816]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.39:456][817]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.01.39:771][824]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.01.39:817][825]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.01.39:873][826]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.01.40:106][831]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.40:181][833]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.40:727][845]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.06.02-15.01.40:727][845]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.02-15.01.40:727][845]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.01.40:727][845]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.01.44:630][953]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.44:645][953]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.44:645][953]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.44:659][953]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.44:666][953]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.44:666][953]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.44:774][957]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.44:817][957]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.44:876][958]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.44:910][958]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.45:032][963]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.45:117][967]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.45:132][967]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.45:162][967]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.45:193][967]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.45:225][967]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.45:473][977]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.45:490][977]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.45:524][977]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.45:528][977]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.45:544][977]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.45:568][977]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.45:568][977]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.45:582][977]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.45:601][977]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.45:630][977]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.45:872][984]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.45:930][985]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.45:981][986]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.46:058][988]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.46:320][994]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.46:386][995]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.46:413][996]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.46:492][998]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.46:691][  2]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.46:726][  3]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.46:737][  3]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.46:782][  4]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.46:975][  9]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.01.47:131][ 12]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.01.47:370][ 18]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.01.47:421][ 19]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.01.47:679][ 25]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.47:727][ 26]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.48:245][ 39]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.06.02-15.01.48:245][ 39]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.02-15.01.48:245][ 39]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.01.48:245][ 39]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.01.54:555][212]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.54:571][212]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.54:571][212]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.54:587][212]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.54:598][212]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.54:598][212]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.55:000][233]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.55:058][236]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.55:076][237]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.55:097][238]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.55:376][251]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.55:395][252]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.55:415][252]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.55:415][252]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.55:444][252]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.55:479][252]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.55:504][252]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.55:537][252]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.55:637][256]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.55:811][263]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.56:061][274]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.56:101][274]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.56:117][274]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.56:131][274]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.56:164][274]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.56:174][274]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.56:184][274]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.56:184][274]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.56:195][274]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.56:207][274]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.56:239][274]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.01.56:269][274]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.01.56:543][282]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.01.56:543][282]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.01.56:589][283]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.01.56:630][284]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.01.56:922][290]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.01.56:963][291]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.01.56:995][292]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.01.57:022][293]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.01.57:251][298]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.01.57:286][299]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.01.57:300][299]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.01.57:314][299]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.01.57:523][304]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.01.57:714][308]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.01.57:908][313]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.01.58:061][316]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.01.58:289][321]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.01.58:340][322]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.01.58:864][334]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.06.02-15.01.58:865][334]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.02-15.01.58:865][334]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.01.58:865][334]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.02.02:175][415]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.02.02:190][415]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.02.02:190][415]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.02.02:204][415]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.02.02:212][415]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.02.02:213][415]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.02.02:221][415]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.02.02:248][415]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.02.02:256][415]LogSlate: Window 'Color Picker' being destroyed
+[2018.06.02-15.02.02:892][433]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.02.02:900][433]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.02.02:913][433]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.02.03:119][438]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.02.03:258][441]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.02.03:308][442]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.02.03:335][443]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.02.03:515][447]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.02.03:608][449]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.02.03:620][449]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.02.03:638][450]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.02.03:797][454]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.02.03:866][455]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.02.04:184][462]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.02.04:262][464]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.02.04:343][466]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.02.04:582][471]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.02.04:612][472]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.02.05:210][486]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.06.02-15.02.05:210][486]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.02-15.02.05:211][486]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.02.05:211][486]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.02.12:696][697]LogMaterialEditor: Saving and Compiling material M_SimpleMetal
+[2018.06.02-15.02.15:583][697]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.02.15:620][697]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.02.15:620][697]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.02.15:620][697]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.02.15:620][697]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.02.15:641][697]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.02.15:683][697]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.02.15:882][697]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SimpleMetal, compiling. 
+[2018.06.02-15.02.16:975][697]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.02-15.02.16:975][697]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.02-15.02.16:975][697]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.02-15.02.16:975][697]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.02-15.02.16:976][697]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.02-15.02.16:976][697]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.02-15.02.16:976][697]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.02-15.02.16:976][697]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.02-15.02.16:976][697]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.02-15.02.16:976][697]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.06.02-15.02.16:976][697]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.02-15.02.16:976][697]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.02-15.02.16:976][697]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.02-15.02.16:976][697]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.02-15.02.16:976][697]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.02.16:976][697]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.02.16:982][697]TextureStreamingBuild: Display: Compiling optional shaders took 1.112 seconds.
+[2018.06.02-15.02.19:244][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SimpleMetal" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Assets/M_SimpleMetal.uasset" SILENT=true
+[2018.06.02-15.02.19:265][697]LogSavePackage: Save=17.65ms
+[2018.06.02-15.02.19:265][697]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/M_SimpleMetal59CA08C947F2C70CC0AB488A0210A25C.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Assets/M_SimpleMetal.uasset'
+[2018.06.02-15.02.19:267][697]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Assets/M_SimpleMetal.uasset
+[2018.06.02-15.02.19:278][697]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.06.02-15.02.19:278][697]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.02-15.02.19:278][697]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.02.19:278][697]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.02-15.02.22:615][792]LogMaterialEditor: Saving and Compiling material M_SimpleMetal
+[2018.06.02-15.02.22:648][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SimpleMetal" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Assets/M_SimpleMetal.uasset" SILENT=true
+[2018.06.02-15.02.22:687][792]LogSavePackage: Save=6.50ms
+[2018.06.02-15.02.22:687][792]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/M_SimpleMetal029E83694A8668F0FFC5AA8F1E874615.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Assets/M_SimpleMetal.uasset'
+[2018.06.02-15.02.22:688][792]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Assets/M_SimpleMetal.uasset
+[2018.06.02-15.02.32:736][938]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:40).
+[2018.06.02-15.02.33:304][969]LogSlate: Window 'BallSphere*' being destroyed
+[2018.06.02-15.03.16:004][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BallSphere" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Assets/BallSphere.uasset" SILENT=true
+[2018.06.02-15.03.16:027][587]LogSavePackage: Save=19.12ms
+[2018.06.02-15.03.16:027][587]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/BallSphere8C2F8887446AA8182393D1BA267A8CA5.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Assets/BallSphere.uasset'
+[2018.06.02-15.03.16:033][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Assets/BallSphere.uasset
+[2018.06.02-15.03.26:540][651]LogActorFactory: Actor Factory created BallSphere
+[2018.06.02-15.03.28:137][674]LogActorFactory: Actor Factory created BallSphere
+[2018.06.02-15.03.34:110][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.02-15.03.38:477][769]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=1.00
+[2018.06.02-15.03.38:477][769]LogSynthBenchmark: Display: ===============
+[2018.06.02-15.03.38:477][769]LogSynthBenchmark: Display: Main Processor:
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:          ... 0.018764 s/Run 'RayIntersect'
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:          ... 0.018056 s/Run 'Fractal'
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display: 
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 8
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:   NumberOfCores (logical): 8
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:   CPU Perf Index 0: 136.5 (weight 1.00)
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:   CPU Perf Index 1: 158.4 (weight 1.50)
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:  
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display: Graphics:
+[2018.06.02-15.03.38:514][769]LogSynthBenchmark: Display:   Adapter Name: 'Intel(R) HD Graphics 4600'
+[2018.06.02-15.03.38:515][769]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2018.06.02-15.03.38:515][769]LogSynthBenchmark: Display:   Vendor Id: 0x8086
+[2018.06.02-15.03.38:515][769]LogSynthBenchmark: Display:   Device Id: 0x412
+[2018.06.02-15.03.38:515][769]LogSynthBenchmark: Display:   Device Revision: 0x6
+[2018.06.02-15.03.38:515][769]LogSynthBenchmark: Display:   GPU Memory: 113/0/2048 MB
+[2018.06.02-15.03.38:596][769]LogSynthBenchmark: Display:   GPU first test: 0.02s
+[2018.06.02-15.03.38:596][769]LogSynthBenchmark: Display:          ... 0.639 s/GigaPix, Confidence=81% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2018.06.02-15.03.38:596][769]LogSynthBenchmark: Display:          ... 0.435 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2018.06.02-15.03.38:596][769]LogSynthBenchmark: Display:          ... 0.417 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2018.06.02-15.03.38:596][769]LogSynthBenchmark: Display:          ... 1.764 s/GigaPix, Confidence=89% 'FillOnly' (likely to be very inaccurate)
+[2018.06.02-15.03.38:596][769]LogSynthBenchmark: Display:          ... 0.107 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2018.06.02-15.03.38:596][769]LogSynthBenchmark: Display:          ... 0.447 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be very inaccurate)
+[2018.06.02-15.03.38:596][769]LogSynthBenchmark: Display:          ... 1.084 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:   GPU second test: 0.24s
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 0.773 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 0.523 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 0.479 s/GigaPix, Confidence=89% 'DepTexHeavy' (likely to be inaccurate)
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 3.704 s/GigaPix, Confidence=89% 'FillOnly' (likely to be inaccurate)
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 0.108 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 0.225 s/GigaVert, Confidence=89% 'VertThroughPut1' (likely to be inaccurate)
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 1.142 s/GigaVert, Confidence=89% 'VertThroughPut2' (likely to be inaccurate)
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:   GPU Final Results:
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 0.773 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 0.523 s/GigaPix, Confidence=100% 'TexHeavy'
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 0.479 s/GigaPix, Confidence=89% 'DepTexHeavy'
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 3.704 s/GigaPix, Confidence=89% 'FillOnly'
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 0.108 s/GigaPix, Confidence=100% 'Bandwidth'
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 0.225 s/GigaVert, Confidence=89% 'VertThroughPut1'
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:          ... 1.142 s/GigaVert, Confidence=89% 'VertThroughPut2'
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display: 
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:   GPU Perf Index 0: 16.8 (weight 1.00)
+[2018.06.02-15.03.38:871][769]LogSynthBenchmark: Display:   GPU Perf Index 1: 7.0 (weight 0.10)
+[2018.06.02-15.03.38:872][769]LogSynthBenchmark: Display:   GPU Perf Index 2: 12.4 (weight 0.10)
+[2018.06.02-15.03.38:872][769]LogSynthBenchmark: Display:   GPU Perf Index 3: 14.5 (weight 3.00)
+[2018.06.02-15.03.38:872][769]LogSynthBenchmark: Display:   GPU Perf Index 4: 10.0 (weight 1.00)
+[2018.06.02-15.03.38:872][769]LogSynthBenchmark: Display:   GPU Perf Index 5: 14.6 (weight 0.00)
+[2018.06.02-15.03.38:872][769]LogSynthBenchmark: Display:   GPU Perf Index 6: 64.6 (weight 0.00)
+[2018.06.02-15.03.38:872][769]LogSynthBenchmark: Display:   CPUIndex: 149.6
+[2018.06.02-15.03.38:872][769]LogSynthBenchmark: Display:   GPUIndex: 13.9
+[2018.06.02-15.03.38:872][769]LogSynthBenchmark: Display: 
+[2018.06.02-15.03.38:872][769]LogSynthBenchmark: Display:          ... Total Time: 0.394693 sec
+[2018.06.02-15.03.39:234][769]LogRenderer: Reallocating scene render targets to support 1432x924 Format 9 NumSamples 1 (Frame:521).
+[2018.06.02-15.03.39:458][774]LogContentStreaming: Texture pool size now 400 MB
+[2018.06.02-15.04.08:244][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-15.04.08:300][573]PIE: New page: SIE session: Untitled_1 (Jun 2, 2018, 9:04:08 AM)
+[2018.06.02-15.04.08:319][573]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.06.02-15.04.08:363][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044052s)
+[2018.06.02-15.04.08:364][573]LogAIModule: Creating AISystem for world Untitled_1
+[2018.06.02-15.04.08:364][573]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2018.06.02-15.04.08:364][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.045205s)
+[2018.06.02-15.04.08:399][573]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.02-15.04.08:418][573]LogInit: FAudioDevice initialized.
+[2018.06.02-15.04.08:473][573]LogLoad: Game class is 'GameModeBase'
+[2018.06.02-15.04.08:565][573]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.06.02-12.04.08
+[2018.06.02-15.04.08:582][573]LogWorld: Bringing up level for play took: 0.017341
+[2018.06.02-15.04.08:767][573]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.06.02-15.04.08:769][573]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.021
+[2018.06.02-15.04.12:280][700]LogTemp: Repeating last play command: Simulate
+[2018.06.02-15.04.12:299][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-15.04.12:299][700]PIE: New page: SIE session: Untitled_1 (Jun 2, 2018, 9:04:12 AM)
+[2018.06.02-15.04.12:299][700]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.06.02-15.04.12:301][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001900s)
+[2018.06.02-15.04.12:301][700]LogAIModule: Creating AISystem for world Untitled_1
+[2018.06.02-15.04.12:301][700]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.06.02-15.04.12:302][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002615s)
+[2018.06.02-15.04.12:314][700]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.02-15.04.12:330][700]LogInit: FAudioDevice initialized.
+[2018.06.02-15.04.12:364][700]LogLoad: Game class is 'GameModeBase'
+[2018.06.02-15.04.12:366][700]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.06.02-12.04.12
+[2018.06.02-15.04.12:366][700]LogWorld: Bringing up level for play took: 0.000640
+[2018.06.02-15.04.12:367][700]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.423
+[2018.06.02-15.05.13:656][494]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.06.02-15.05.40:573][110]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.06.02-15.05.40:855][110]LogUObjectGlobals: Created PersistentFrame Addr=0x000001751bae2400, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.02-15.05.40:857][110]LogUObjectGlobals: Created PersistentFrame Addr=0x000001751bae23f8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.02-15.06.56:660][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2018.06.02-15.06.56:675][757]LogSavePackage: Save=11.87ms
+[2018.06.02-15.06.56:675][757]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/BP_Ball2AFCC4674FD89391FF0C6F89BACFAFAB.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2018.06.02-15.06.56:677][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset
+[2018.06.02-15.07.13:661][ 24]LogSlate: Window 'Save Level As' being destroyed
+[2018.06.02-15.07.13:743][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.02-15.07.13:798][ 24]LogSavePackage: Save=23.84ms
+[2018.06.02-15.07.13:798][ 24]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Pinball88B6CE9C40F522207AE85695C8FA785E.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball.umap'
+[2018.06.02-15.07.13:800][ 24]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball.umap
+[2018.06.02-15.07.13:831][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball_BuiltData" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball_BuiltData.uasset" SILENT=true
+[2018.06.02-15.07.13:859][ 24]LogSavePackage: Save=26.51ms
+[2018.06.02-15.07.13:859][ 24]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Pinball_BuiltData25DE48ED4F707A8E86A1D596AC6F4C2B.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball_BuiltData.uasset'
+[2018.06.02-15.07.13:860][ 24]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball_BuiltData.uasset
+[2018.06.02-15.07.13:865][ 24]LogFileHelpers: Saving map 'Pinball' took 0.199
+[2018.06.02-15.12.03:784][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.02-15.12.40:349][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.02-15.12.43:675][ 66]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.43:747][ 66]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.43:755][ 66]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.43:776][ 66]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.12.43:776][ 66]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.12.43:776][ 66]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.12.43:776][ 66]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.12.43:788][ 66]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.44:752][ 97]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.12.44:857][101]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.12.44:891][102]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.12.45:035][107]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.12.45:174][112]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.12.45:234][114]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.12.45:264][115]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.12.45:733][131]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.12.45:985][140]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.12.46:105][144]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.12.46:243][149]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.12.46:476][157]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.12.46:644][163]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.12.46:766][167]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.12.46:991][175]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.06.02-15.12.46:992][175]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.02-15.12.46:992][175]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.12.46:992][175]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.12.51:514][392]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.51:527][392]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.12.51:527][392]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.12.51:540][392]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.51:546][392]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.12.51:546][392]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.12.51:558][392]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.51:588][392]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.51:605][392]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.51:635][392]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.51:787][400]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.12.51:904][407]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.12.51:922][408]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.12.51:938][409]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.12.52:314][430]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.12.52:314][430]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.12.52:380][434]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.12.52:398][435]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.12.52:633][448]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.12.52:698][452]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.12.52:716][453]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.12.52:731][454]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.12.52:987][469]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.12.53:147][478]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.12.53:410][493]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.12.53:451][494]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.53:469][494]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.12.53:485][494]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.53:508][494]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.53:538][494]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.53:558][494]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.53:590][494]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.53:648][497]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.12.53:668][498]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.12.53:838][508]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.12.54:039][519]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.12.54:094][522]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.12.54:125][523]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.54:157][523]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.12.54:160][523]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.54:175][523]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.54:199][523]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.12.54:199][523]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.54:232][523]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.54:263][523]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.54:284][524]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.12.54:349][527]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.12.54:371][528]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.12.54:607][536]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.12.54:812][543]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.12.54:870][545]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.12.54:936][547]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.12.55:108][553]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.12.55:350][561]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.12.55:384][562]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.12.55:411][563]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.12.55:496][566]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.12.55:706][573]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.12.55:934][580]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.12.56:224][590]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.12.56:256][591]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.12.56:648][604]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.12.56:685][605]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.12.56:755][606]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.56:793][606]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.56:892][611]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.12.56:896][611]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.12.56:916][611]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.56:950][611]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.56:967][611]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.56:995][611]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.12.56:997][611]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.57:015][611]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.57:045][611]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.57:118][615]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.12.57:146][615]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.12.57:147][615]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.57:180][615]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.57:196][615]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.57:223][615]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.12.57:226][615]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.57:269][617]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.12.57:473][627]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.57:505][627]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.57:525][627]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.12.57:525][627]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.57:540][627]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.12.57:556][627]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.57:566][627]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.12.57:580][627]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.57:609][627]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.57:621][627]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.12.57:901][643]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.12.57:936][645]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.12.58:093][654]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.12.58:197][660]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.12.58:305][666]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.12.58:412][671]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.12.58:424][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.58:457][671]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.58:474][671]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.58:493][671]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.12.58:496][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.58:530][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.12.58:545][671]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.12.58:545][671]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.12.58:559][671]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.12.58:624][674]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.12.59:123][691]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.12.59:157][692]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.12.59:538][705]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.12.59:538][705]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.12.59:597][707]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.12.59:933][719]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.12.59:966][720]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.13.00:022][722]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.13.00:305][732]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.13.00:334][733]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.13.00:650][743]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.13.00:791][747]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.13.01:153][752]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.13.01:177][752]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.13.01:211][753]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.13.01:537][757]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.13.01:669][758]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.13.02:316][780]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.06.02-15.13.02:316][780]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.02-15.13.02:316][780]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.13.02:316][780]MaterialEditorStats: Texture samplers: 2/16
+[2018.06.02-15.13.09:139][ 78]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.13.09:155][ 78]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.13.09:155][ 78]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.13.09:169][ 78]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.13.09:175][ 78]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.13.09:175][ 78]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.13.09:187][ 78]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.06.02-15.13.09:214][ 78]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.13.09:223][ 78]LogSlate: Window 'Color Picker' being destroyed
+[2018.06.02-15.13.09:877][105]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.02-15.13.09:908][106]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.02-15.13.09:908][106]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.13.10:110][113]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.13.10:359][122]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.13.10:448][125]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.13.10:498][127]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.13.10:606][131]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.02-15.13.10:835][139]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.02-15.13.10:865][140]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.02-15.13.10:919][142]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.02-15.13.11:052][147]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.02-15.13.11:170][149]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.02-15.13.11:553][164]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.02-15.13.11:583][165]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.02-15.13.11:731][172]LogMaterialEditor: Saving and Compiling material M_SimpleMetal
+[2018.06.02-15.13.13:919][172]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.02-15.13.13:919][172]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.13.13:919][172]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.02-15.13.13:931][172]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.02-15.13.13:960][172]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.02-15.13.13:960][172]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.02-15.13.13:960][172]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.02-15.13.13:960][172]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.02-15.13.13:975][172]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.13.13:996][172]LogMaterial: Missing cached shader map for material M_SimpleMetal, compiling. 
+[2018.06.02-15.13.14:038][172]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_SimpleMetal, compiling. 
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.02-15.13.14:969][172]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.02-15.13.14:971][172]TextureStreamingBuild: Display: Compiling optional shaders took 0.939 seconds.
+[2018.06.02-15.13.17:026][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_SimpleMetal" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Assets/M_SimpleMetal.uasset" SILENT=true
+[2018.06.02-15.13.17:066][172]LogSavePackage: Save=13.08ms
+[2018.06.02-15.13.17:066][172]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/M_SimpleMetalB1ADEBCC4BF9EFFA788035B26B086BC9.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Assets/M_SimpleMetal.uasset'
+[2018.06.02-15.13.17:069][172]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Assets/M_SimpleMetal.uasset
+[2018.06.02-15.13.17:078][172]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.06.02-15.13.17:078][172]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.06.02-15.13.17:078][172]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.06.02-15.13.17:078][172]MaterialEditorStats: Texture samplers: 3/16
+[2018.06.02-15.13.36:010][509]BlueprintLog: New page: Compile BP_Ball
+[2018.06.02-15.13.55:305][862]BlueprintLog: New page: Compile BP_Ball
+[2018.06.02-15.13.56:975][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2018.06.02-15.13.57:015][891]LogSavePackage: Save=16.08ms
+[2018.06.02-15.13.57:015][891]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/BP_Ball26F1A385425EE892CA64B6A6F79E4F76.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2018.06.02-15.13.57:018][891]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset
+[2018.06.02-15.14.01:701][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BallSphere)
+[2018.06.02-15.14.03:373][201]Cmd: DELETE
+[2018.06.02-15.14.03:373][201]Cmd: ACTOR DELETE
+[2018.06.02-15.14.03:457][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.06.02-15.14.03:481][201]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2018.06.02-15.14.12:508][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.02-15.14.19:632][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.02-15.14.19:783][ 60]LogTemp: Repeating last play command: Simulate
+[2018.06.02-15.14.19:807][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-15.14.19:807][ 60]PIE: New page: SIE session: Pinball (Jun 2, 2018, 9:14:19 AM)
+[2018.06.02-15.14.19:807][ 60]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball
+[2018.06.02-15.14.19:809][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002461s)
+[2018.06.02-15.14.19:810][ 60]LogAIModule: Creating AISystem for world Pinball
+[2018.06.02-15.14.19:810][ 60]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2018.06.02-15.14.19:810][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball.Pinball to /Game/UEDPIE_0_Pinball.Pinball (0.003328s)
+[2018.06.02-15.14.19:833][ 60]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.02-15.14.19:854][ 60]LogInit: FAudioDevice initialized.
+[2018.06.02-15.14.19:894][ 60]LogLoad: Game class is 'GameModeBase'
+[2018.06.02-15.14.19:895][ 60]LogWorld: Bringing World /Game/UEDPIE_0_Pinball.Pinball up for play (max tick rate 0) at 2018.06.02-12.14.19
+[2018.06.02-15.14.19:895][ 60]LogWorld: Bringing up level for play took: 0.000702
+[2018.06.02-15.14.19:896][ 60]PIE: Play in editor start time for /Game/UEDPIE_0_Pinball -0.894
+[2018.06.02-15.23.03:933][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.02-15.23.04:086][289]LogTemp: Repeating last play command: Simulate
+[2018.06.02-15.23.04:104][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-15.23.04:104][289]PIE: New page: SIE session: Pinball (Jun 2, 2018, 9:23:04 AM)
+[2018.06.02-15.23.04:104][289]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball
+[2018.06.02-15.23.04:106][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001713s)
+[2018.06.02-15.23.04:106][289]LogAIModule: Creating AISystem for world Pinball
+[2018.06.02-15.23.04:106][289]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2018.06.02-15.23.04:106][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball.Pinball to /Game/UEDPIE_0_Pinball.Pinball (0.002551s)
+[2018.06.02-15.23.04:125][289]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.02-15.23.04:142][289]LogInit: FAudioDevice initialized.
+[2018.06.02-15.23.04:173][289]LogLoad: Game class is 'GameModeBase'
+[2018.06.02-15.23.04:174][289]LogWorld: Bringing World /Game/UEDPIE_0_Pinball.Pinball up for play (max tick rate 0) at 2018.06.02-12.23.04
+[2018.06.02-15.23.04:175][289]LogWorld: Bringing up level for play took: 0.000703
+[2018.06.02-15.23.04:175][289]PIE: Play in editor start time for /Game/UEDPIE_0_Pinball -0.614
+[2018.06.02-15.23.08:244][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.02-15.23.08:302][560]LogSavePackage: Save=21.07ms
+[2018.06.02-15.23.08:302][560]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Pinball013AF7F942FE04975AD4CF97F7F92E02.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball.umap'
+[2018.06.02-15.23.08:305][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball.umap
+[2018.06.02-15.23.08:333][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball_BuiltData" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball_BuiltData.uasset" SILENT=true
+[2018.06.02-15.23.08:353][560]LogSavePackage: Save=11.82ms
+[2018.06.02-15.23.08:353][560]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Pinball_BuiltDataD47CE70542E972A2A447E4847E4E1065.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball_BuiltData.uasset'
+[2018.06.02-15.23.08:354][560]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball_BuiltData.uasset
+[2018.06.02-15.33.19:809][382]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017568b91228, Size=4, Default__SKEL_BP_Ball_C Function /Game/Blueprints/BP_Ball.SKEL_BP_Ball_C:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.33.29:842][281]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017568b91228, Size=4
+[2018.06.02-15.33.29:842][281]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017568b91228, Size=4, Default__SKEL_BP_Ball_C Function /Engine/Transient.REINST_SKEL_BP_Ball_C_33:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.33.29:844][281]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017568b922e0, Size=4, Default__SKEL_BP_Ball_C Function /Game/Blueprints/BP_Ball.SKEL_BP_Ball_C:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.33.50:558][ 54]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017568b922e0, Size=4
+[2018.06.02-15.33.50:558][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017568b922e0, Size=4, Default__SKEL_BP_Ball_C Function /Engine/Transient.REINST_SKEL_BP_Ball_C_35:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.33.50:559][ 54]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017568b931c0, Size=4, Default__SKEL_BP_Ball_C Function /Game/Blueprints/BP_Ball.SKEL_BP_Ball_C:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.33.52:761][296]LogSlate: Took 0.019186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.06.02-15.33.54:257][457]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017568b931c0, Size=4
+[2018.06.02-15.33.54:257][457]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017568b931c0, Size=4, Default__SKEL_BP_Ball_C Function /Engine/Transient.REINST_SKEL_BP_Ball_C_37:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.33.54:258][457]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017568b91650, Size=4, Default__SKEL_BP_Ball_C Function /Game/Blueprints/BP_Ball.SKEL_BP_Ball_C:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.33.56:094][666]BlueprintLog: New page: Compile BP_Ball
+[2018.06.02-15.33.56:098][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017568b91650, Size=4
+[2018.06.02-15.33.56:098][666]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017568b91650, Size=4, Default__SKEL_BP_Ball_C Function /Engine/Transient.REINST_SKEL_BP_Ball_C_39:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.33.56:102][666]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017568b908f8, Size=4, Default__BP_Ball_C Function /Game/Blueprints/BP_Ball.BP_Ball_C:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.33.56:380][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017568b931c0, Size=4
+[2018.06.02-15.33.56:380][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017568b91650, Size=4
+[2018.06.02-15.33.56:380][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017568b922e0, Size=4
+[2018.06.02-15.33.56:380][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017568b91228, Size=4
+[2018.06.02-15.34.58:415][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Pinball_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.06.02-15.34.58:448][654]LogSavePackage: Save=25.17ms
+[2018.06.02-15.34.58:448][654]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Pinball_Auto23CD3EF484E1982A9A539FAAB5DB352E8.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Pinball_Auto2.umap'
+[2018.06.02-15.34.58:449][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Pinball_Auto2.umap
+[2018.06.02-15.34.58:451][654]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Pinball' took 0.058
+[2018.06.02-15.34.58:451][654]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.058
+[2018.06.02-15.34.58:453][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Ball] ([1] browsable assets)...
+[2018.06.02-15.34.58:479][654]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Ball.BP_Ball]
+[2018.06.02-15.34.58:479][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Ball]
+[2018.06.02-15.34.58:507][654]LogSavePackage: Save=18.84ms
+[2018.06.02-15.34.58:507][654]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/BP_Ball_Auto20FB36FF94E67ACCF36DF94B742A26F85.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/BP_Ball_Auto2.uasset'
+[2018.06.02-15.34.58:508][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Autosaves/Game/Blueprints/BP_Ball_Auto2.uasset
+[2018.06.02-15.34.58:508][654]LogFileHelpers: Auto-saving content packages took 0.055
+[2018.06.02-15.36.40:966][581]BlueprintLog: New page: Compile BP_Ball
+[2018.06.02-15.36.40:972][581]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017568b908f8, Size=4
+[2018.06.02-15.36.40:973][581]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017513fcf7f0, Size=4, Default__BP_Ball_C Function /Engine/Transient.REINST_BP_Ball_C_45:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.36.40:974][581]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017513fceac8, Size=8, Default__BP_Ball_C Function /Game/Blueprints/BP_Ball.BP_Ball_C:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.36.42:310][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2018.06.02-15.36.42:336][656]LogSavePackage: Save=21.64ms
+[2018.06.02-15.36.42:336][656]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/BP_BallC9041DB343890FE2ACE1659DCFF42816.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2018.06.02-15.36.42:341][656]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset
+[2018.06.02-15.38.22:274][302]BlueprintLog: New page: Compile BP_Ball
+[2018.06.02-15.38.22:281][302]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017513fceac8, Size=8
+[2018.06.02-15.38.22:281][302]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017513fceac8, Size=8, BP_Ball_C_62 Function /Engine/Transient.REINST_BP_Ball_C_49:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.38.22:282][302]LogUObjectGlobals: Created PersistentFrame Addr=0x0000017523b50658, Size=20, Default__BP_Ball_C Function /Game/Blueprints/BP_Ball.BP_Ball_C:ExecuteUbergraph_BP_Ball
+[2018.06.02-15.38.23:718][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Ball" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset" SILENT=true
+[2018.06.02-15.38.23:742][423]LogSavePackage: Save=21.18ms
+[2018.06.02-15.38.23:742][423]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/BP_BallF0DB1AC54F61AD7661FCBEBE492EEB48.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset'
+[2018.06.02-15.38.23:745][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Blueprints/BP_Ball.uasset
+[2018.06.02-15.38.28:936][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.02-15.38.28:979][ 13]LogSavePackage: Save=20.93ms
+[2018.06.02-15.38.28:979][ 13]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/PinballE2A4F68A491246B3982AEEA54DE91CCF.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball.umap'
+[2018.06.02-15.38.28:981][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball.umap
+[2018.06.02-15.38.29:007][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pinball_BuiltData" FILE="../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball_BuiltData.uasset" SILENT=true
+[2018.06.02-15.38.29:028][ 13]LogSavePackage: Save=12.47ms
+[2018.06.02-15.38.29:028][ 13]LogSavePackage: Moving '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Saved/Pinball_BuiltData8E5C3D5345F1CB038E750C8D69836BF9.tmp' to '../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball_BuiltData.uasset'
+[2018.06.02-15.38.29:029][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elcy_/Documents/Unreal Projects/Pinball/Content/Pinball_BuiltData.uasset
+[2018.06.02-15.38.31:621][286]LogTemp: Repeating last play command: Simulate
+[2018.06.02-15.38.31:644][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.02-15.38.31:644][286]PIE: New page: SIE session: Pinball (Jun 2, 2018, 9:38:31 AM)
+[2018.06.02-15.38.31:644][286]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Pinball
+[2018.06.02-15.38.31:648][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003061s)
+[2018.06.02-15.38.31:648][286]LogAIModule: Creating AISystem for world Pinball
+[2018.06.02-15.38.31:649][286]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2018.06.02-15.38.31:649][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pinball.Pinball to /Game/UEDPIE_0_Pinball.Pinball (0.004254s)
+[2018.06.02-15.38.31:666][286]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017513fcf7f0, Size=4
+[2018.06.02-15.38.31:666][286]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000017513fceac8, Size=8
+[2018.06.02-15.38.31:669][286]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.02-15.38.31:685][286]LogInit: FAudioDevice initialized.
+[2018.06.02-15.38.31:721][286]LogLoad: Game class is 'GameModeBase'
+[2018.06.02-15.38.31:723][286]LogWorld: Bringing World /Game/UEDPIE_0_Pinball.Pinball up for play (max tick rate 0) at 2018.06.02-12.38.31
+[2018.06.02-15.38.31:723][286]LogWorld: Bringing up level for play took: 0.000797
+[2018.06.02-15.38.31:724][286]PIE: Play in editor start time for /Game/UEDPIE_0_Pinball 0.934
